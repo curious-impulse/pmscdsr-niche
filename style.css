@@ -1,0 +1,13 @@
+.img_1
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1
+{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+}
